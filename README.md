@@ -1,1 +1,0 @@
-# Microsoft-typescript-template
