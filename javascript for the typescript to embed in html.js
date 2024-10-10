@@ -1,1 +1,1 @@
-document.write(3 + 4)
+document.write(3 + 4);
